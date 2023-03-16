@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Deepart
+Portfolio of Deepti Rathor
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--helix-deepart--bluedeepart.hlx.page/
+- Live: https://main--helix-deepart--bluedeepart.hlx.live/
 
 ## Installation
 
